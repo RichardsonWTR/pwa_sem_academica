@@ -1,0 +1,58 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Primeiro PWA</title>
+
+  <link rel="stylesheet" href="../src/css/material.indigo-red.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="../src/css/app.css">
+  <link rel="manifest" href="../manifest.json">
+</head>
+<body>
+
+  <!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+<header class="mdl-layout__header">
+  <div class="mdl-layout__header-row">
+    <!-- Title -->
+    <span class="mdl-layout-title">Primeiro PWA</span>
+    <!-- Add spacer, to align navigation to the right -->
+    <div class="mdl-layout-spacer"></div>
+    <!-- Navigation. We hide it in small screens. -->
+    <nav class="mdl-navigation mdl-layout--large-screen-only">
+      <a class="mdl-navigation__link" href="/">Início</a>
+      <a class="mdl-navigation__link" href="/ajuda/">Ajuda</a>
+    </nav>
+  </div>
+</header>
+<div class="mdl-layout__drawer">
+  <span class="mdl-layout-title">Primeiro PWA</span>
+  <nav class="mdl-navigation">
+    <a class="mdl-navigation__link" href="/">Início</a>
+    <a class="mdl-navigation__link" href="/ajuda/">Ajuda</a>
+  </nav>
+</div>
+<main class="mdl-layout__content mat-typography">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col text-center">
+         <h3>Ajuda</h3>
+          <p>Página com informações importantes do nosso web app</p>
+        </div>
+      </div>
+    </main>
+</div>
+    <script defer src="../src/js/material.min.js"></script>
+    <script type="text/javascript">
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker
+        .register('../sw.js')
+        .then(function(event){
+          console.log('SW registrado',event)
+        })
+    }
+    </script>
+</body>
+</html>

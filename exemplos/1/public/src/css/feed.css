@@ -1,0 +1,10 @@
+.img-pwa {
+  text-align: center;
+}
+.img-pwa img {
+  width: 60%;
+}
+
+main > .page-content {
+    padding: 10px;
+}
