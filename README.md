@@ -9,7 +9,7 @@ Segue aqui o documento e os exemplos utilizados na apresentação.
 # Como testar 
 É necessário [Node.js](https://nodejs.org) 
 
-Uma vez instalado, navegar até uma pasta de exemplo (pasta 1, 2 ou 3), abrir o prompt de comandos em uma pasta  e digitar de exemplo e digitar  `npm install` para instalar as dependências requeridas.
+Uma vez instalado, navegar até uma pasta de exemplo (pasta 1, 2 ou 3), abrir o prompt de comandos em uma pasta e digitar `npm install` para instalar as dependências requeridas.
 
 Após isto, digitar `npm start` para iniciar o servidor de desenvolvimento e visitar [localhost:8080](http://localhost:8080) para ver a aplicação.
 
