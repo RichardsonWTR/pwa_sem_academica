@@ -31,9 +31,9 @@ Para testar no smartphone, deve-se configurar a [depuração remota](https://dev
 # Exemplos online
 Os exemplos estão disponibilizados online. Utilize um smartphone, adicione na home screen e veja a diferença entre os exemplos:
  
-[Exemplo 01](https://richardsonwtr.github.io/testpwa1/)  
-[Exemplo 02](https://richardsonwtr.github.io/testpwa2/)  
-[Exemplo 03](https://richardsonwtr.github.io/testpwa3/)
+[Exemplo 01](https://richardsonwtr.github.io/pwa_sem_academica/1/)  
+[Exemplo 02](https://richardsonwtr.github.io/pwa_sem_academica/2/)  
+[Exemplo 03](https://richardsonwtr.github.io/pwa_sem_academica/3/)
 
 # Agradecimentos
 Grandes agradecimentos à coordenação do curso  de Tecnologia em Sistemas para Internet pela oportunidade
