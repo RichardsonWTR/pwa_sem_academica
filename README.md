@@ -6,14 +6,11 @@ Segue aqui o documento e os exemplos utilizados na apresentação.
 
 [Apresentação Semana Acadêmica - PWA](https://github.com/RichardsonWTR/pwa_sem_academica/raw/master/Semana%20Acad%C3%AAmica%202018%20-%20Progressive%20Web%20Apps.pdf)
 
-Exemplo 01
-![](./blob/master/imgs/ex1.jpg)
-
-Exemplo 02
-![](./blob/master/imgs/ex2.jpg)
-
-Exemplo 03
-![](./blob/master/imgs/ex3.jpg) 
+<p float="left">
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex1.jpg" width="33%" />
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex2.jpg" width="33%" />
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex3.jpg" width="33%" />
+</p>
 
 # Como testar 
 É necessário [Node.js](https://nodejs.org) 
@@ -34,9 +31,9 @@ Para testar no smartphone, deve-se configurar a [depuração remota](https://dev
 # Exemplos online
 Os exemplos estão disponibilizados online. Utilize um smartphone, adicione na home screen e veja a diferença entre os exemplos:
  
-[Exemplo 01]()
-[Exemplo 02]()
-[Exemplo 03]()
+[Exemplo 01](https://richardsonwtr.github.io/testpwa1/)  
+[Exemplo 02](https://richardsonwtr.github.io/testpwa2/)  
+[Exemplo 03](https://richardsonwtr.github.io/testpwa3/)
 
 # Agradecimentos
 Grandes agradecimentos à coordenação do curso  de Tecnologia em Sistemas para Internet pela oportunidade
