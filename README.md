@@ -6,12 +6,6 @@ Segue aqui o documento e os exemplos utilizados na apresentação.
 
 [Apresentação Semana Acadêmica - PWA](https://github.com/RichardsonWTR/pwa_sem_academica/raw/master/Semana%20Acad%C3%AAmica%202018%20-%20Progressive%20Web%20Apps.pdf)
 
-<p float="left">
-  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex1.jpg" width="33%" />
-  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex2.jpg" width="33%" />
-  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex3.jpg" width="33%" />
-</p>
-
 # Como testar 
 É necessário [Node.js](https://nodejs.org) 
 
@@ -27,6 +21,12 @@ npm install
 npm start
 ```
 Para testar no smartphone, deve-se configurar a [depuração remota](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+
+<p float="left">
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex1.jpg" width="33%" />
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex2.jpg" width="33%" />
+  <img src="https://github.com/RichardsonWTR/pwa_sem_academica/blob/master/imgs/ex3.jpg" width="33%" />
+</p>
 
 # Exemplos online
 Os exemplos estão disponibilizados online. Utilize um smartphone, adicione na home screen e veja a diferença entre os exemplos:
