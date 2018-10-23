@@ -4,16 +4,16 @@ Este repositório contêm a apresentação e os exemplos utilizados no minicurso
 
 Segue aqui o documento e os exemplos utilizados na apresentação.
 
-[Apresentação Semana Acadêmica - PWA](Semana Acadêmica 2018 - Progressive Web Apps.pdf)
+[Apresentação Semana Acadêmica - PWA](https://github.com/RichardsonWTR/pwa_sem_academica/raw/master/Semana%20Acad%C3%AAmica%202018%20-%20Progressive%20Web%20Apps.pdf)
 
 Exemplo 01
-![](imgs/ex1.png)
+![](./blob/master/imgs/ex1.jpg)
 
 Exemplo 02
-![](imgs/ex2.png)
+![](./blob/master/imgs/ex2.jpg)
 
 Exemplo 03
-![](imgs/ex3.png) 
+![](./blob/master/imgs/ex3.jpg) 
 
 # Como testar 
 É necessário [Node.js](https://nodejs.org) 
